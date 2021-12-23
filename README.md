@@ -10,6 +10,7 @@ Combine the data from the 3 datasets i.e. CicDos2019, ISCXIDS2012 and the signat
 3.Model with the highest accuracy is chosen for detection of DDOS attacks.
 
 How to run?
+
 1.cd ddos
 
 2.Install requirements - python install -r requirements.txt
