@@ -10,6 +10,8 @@ Combine the data from the 3 datasets i.e. CicDos2019, ISCXIDS2012 and the signat
 
 3.Model with the highest accuracy is chosen for detection of DDOS attacks.
 
+Data sets are available: https://drive.google.com/drive/folders/1FvBFdrGA8DiE0Glru6NkSOO0hzgt8_g1?usp=sharing
+
 How to run?
 
 1.cd ddos
